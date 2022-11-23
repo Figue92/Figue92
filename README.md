@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Diego Figueredo tengo 30 años, vivo en Lanus y estoy estudiando Desarrollo Web FullStack
 
 <!--
 **Figue92/Figue92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
